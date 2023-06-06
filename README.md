@@ -2,7 +2,8 @@
 
 This guide provides step-by-step instructions on how to install Virtualmin, an open-source web hosting and cloud control panel, on an Ubuntu 20.04 LTS server. Virtualmin allows you to create and manage multiple hosting environments without the need to switch servers. It provides a secure and user-friendly interface, enabling server access through SSL-encrypted HTTP even with limited technical knowledge.
 
-[![YouTube Video](https://img.youtube.com/vi/G2ZvhXH1SLs/0.jpg)](https://youtu.be/G2ZvhXH1SLs)
+[![YouTube Video](https://img.youtube.com/vi/G2ZvhXH1SLs/maxresdefault.jpg)](https://youtu.be/G2ZvhXH1SLs)
+
 ## Prerequisites
 
 Before proceeding with the installation, make sure you have completed the following prerequisites:
