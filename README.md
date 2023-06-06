@@ -43,4 +43,5 @@ $ sudo ufw allow 10000
 http://example.com:10000
 ```
 ## Conclusion
+[![YouTube Video](https://github.com/khaleel-git/install-virtualmin-on-ubuntu-20-04/blob/master/Virtualmin%20github.png)](https://youtu.be/G2ZvhXH1SLs)
 Congratulations! You have successfully installed Virtualmin on your Ubuntu 20.04 LTS server. To log in, use your server's root username and the password you set during the installation process. You can now access the Virtualmin Dashboard and begin configuring it to host websites. Enjoy the power and convenience of Virtualmin for your web hosting needs!
