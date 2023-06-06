@@ -8,7 +8,7 @@ This guide provides step-by-step instructions on how to install Virtualmin, an o
 
 Before proceeding with the installation, make sure you have completed the following prerequisites:
 
-1. Deploy a fully updated Ubuntu 20.04 LTS server at Vultr.
+1. Deploy a fully updated Ubuntu 20.04 LTS server.
 2. Create a non-root user with sudo access.
 
 ## Installation Steps
